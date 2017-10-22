@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">JG Analytics</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="registrese">Regístrese</string>
+    <string name="repcontrasena">Repetir contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="perfil">Mi Perfil</string>
+    <string name="mCerrar">Cerrar sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="principal">Principal</string>
+    <string name="facebook_app_id">119834122067424</string>
+    <string name="fb_login_protocol_scheme">fb119834122067424</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_indicadores__tabs_">Indicadores_Tabs_Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_indicadores">Indicadores</string>
+    <string name="name_main_activity">Agencias</string>
+    <string name="name_login_activity">JG Analytics</string>
+    <string name="name_Registro_activity">Crear una cuenta</string>
+    <string name="name_Perfil_activity">Mi Perfil</string>
+    <string name="medellin">Medellín</string>
+    <string name="bogota">Bogotá</string>
+    <string name="monteria">Montería</string>
+    <string name="cartagena">Cartagena</string>
+    <string name="consultar">Consultar</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="agencia">Agencia</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccionMedellin">CR 83A#49DD-22</string>
+    <string name="telefonoMedellin">2345659</string>
+    <string name="title_activity_ndrawer">NDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="agencias">Agencias</string>
+    <string name="galeria">Galería</string>
+    <string name="contactanos">Contáctanos</string>
+    <string name="reportar_error">Reportar error</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="ayuda">Ayuda y sugerencias</string>
+    <string name="info">Información</string>
+    <string name="registrarse">Registrarse</string>
+
+</resources>

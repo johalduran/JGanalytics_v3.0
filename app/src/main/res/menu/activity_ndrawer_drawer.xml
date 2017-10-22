@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_agencias"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/agencias"
+        />
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_perm_identity_black_24dp"
+            android:title="@string/perfil" />
+        <item
+            android:id="@+id/nav_reportar_error"
+            android:icon="@android:drawable/ic_notification_clear_all"
+            android:title="@string/reportar_error"
+            />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_ajustes"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/ajustes" />
+            <item
+                android:id="@+id/nav_ayuda"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="@string/ayuda" />
+            <item
+                android:id="@+id/nav_cerrar_sesion"
+                android:icon="@android:drawable/ic_menu_revert"
+                android:title="@string/mCerrar" />
+        </menu>
+    </item>
+
+</menu>
